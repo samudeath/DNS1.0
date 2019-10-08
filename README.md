@@ -16,7 +16,7 @@
  ## Utilização
  
  Execute como aplicação java a classe: DNS (se encontra no pacote: br.edu.ifg.servidor).
- Logo após o aparecimento da mensagem: "Servidor rodando!!" - execute como aplicação java a classe: AplicacaoChat (está no pacote:
+ Logo após o aparecimento da mensagem: "Servidor rodando!!" - execute como aplicação java a classe: ChatMain (está no pacote:
  br.edu.ifg.cliente).
  
  ## Idealizador
