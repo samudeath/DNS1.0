@@ -1,7 +1,7 @@
 # DNS1.0
 
 
- Algoritmo da camada de aplicação que, à priori é capaz de listar todos os usuários on-line e o endereço de IP do usuário a quem deseja comunicar-se. 
+ Algoritmo da camada de aplicação que, à priori é capaz de listar todos os usuários on-line, o endereço de IP do usuário e o endereço de ip do "amigo", possui também a "semi-implementação" do Serializable para a troca de mensagens cliente - servidor.
  
 ## Instalação de recursos
 
