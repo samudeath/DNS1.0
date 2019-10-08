@@ -25,7 +25,6 @@
   
   ## Integrantes do projeto
   
-  Flávio Cézar, 
   Matheus Vieira, 
   Samuel Gomes
     
